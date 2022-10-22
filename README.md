@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ contact : [kcrindata@gmail.com](kcrindata@gmail.com)  
+ 데이터 분석가/데이터 마케터를 꿈꾸는 **김채린**입니다.  
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Mail-405940?style=flat-square&logo=Gmail&logoColor=white"/></a>  

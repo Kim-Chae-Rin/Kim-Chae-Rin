@@ -51,5 +51,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kim-Chae-Rin&repo=Coding_Test_Practice&theme=buefy" />
 </a>
 <a href="https://github.com/Kim-Chae-Rin/Python-Plotly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kim-Chae-Rin&repo=Python-Plotly&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kim-Chae-Rin&repo=Python-Plotly&theme=buefy&hide=jupyter%20notebook" />
 </a>

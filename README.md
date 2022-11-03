@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 
 
+
 -->
 📊 데이터 분석가/데이터 마케터를 꿈꾸는 **김채린**입니다.  
 
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-| <a href="https://github.com/Kim-Chae-Rin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Chae-Rin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KCR's github stats" /></a> | <a href="https://github.com/Kim-Chae-Rin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Chae-Rin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Kim-Chae-Rin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kim-Chae-Rin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KCR's github stats" /></a> | <a href="https://github.com/Kim-Chae-Rin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Chae-Rin&theme=buefy&hide_border=true&hide=jupyter%20notebook&langs_count=5" /></a> |
 | ------------- | ------------- |
 
 <h3> Top Repositories </h3>
